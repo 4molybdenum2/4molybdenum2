@@ -13,7 +13,7 @@
   gn="left" alt="Tathagata's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<br/><br/>
+<br/>
 
 **Now Playing** on Spotify
 
