@@ -13,12 +13,6 @@
   gn="left" alt="Tathagata's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<p align="center">
-   <a href="https://now-playing-joshlmao.vercel.app/now-playing?open" target="notarget">
-    <img src="https://now-playing-joshlmao.vercel.app/now-playing" width="256" height="64" alt="Now Playing" align="right"></img>
-  </a>
-</p>
-
 <br/><br/>
 
 **Now Playing** on Spotify
