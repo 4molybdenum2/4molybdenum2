@@ -11,9 +11,9 @@ In my free time I love listening to music and playing games. As a hobby I am try
 <a href="https://www.linkedin.com/in/tathagata-paul/">
   <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/4molybdenum2">
+<a href="https://leetcode.com/4molybdenum2/">
   <img ali
-  gn="left" alt="Tathagata's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  gn="left" alt="Tathagata's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
 **Now Playing** on Spotify
