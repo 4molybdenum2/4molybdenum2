@@ -1,8 +1,6 @@
 <p align="center">
   <h1>Hey，I'm Tathagata!</h1>
 </p>
-<br></br>
-
 I am an **CSE Undergraduate at [@IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/) in India**. Mathematics and Computers fascinate me. I love developing apps and websites!
 In my free time I love listening to music and playing games. As a hobby I am trying to learn Japanese.
 
