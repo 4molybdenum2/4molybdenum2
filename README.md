@@ -3,7 +3,7 @@
 </p>
 
 I am a **CSE Undergraduate at [@IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/) in India.** Mathematics and Computers fascinate me.<br/>
-I am interested in Cloud and Cloud Native Software</b>
+I am interested in Cloud and Cloud Native Software</br>
 In my leisure time, I love listening to music and playing games. As a hobby, I am trying to learn Japanese.
 <br></br>
 <a href="https://twitter.com/4molybdenum2">
