@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Hey，I'm Tathagata!</h1>
+  <h1>Hey, I'm Tathagata!</h1>
 </p>
 
 I am a **CSE Undergraduate at [@IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/) in India.** Mathematics and Computers fascinate me. I love developing apps and websites!
