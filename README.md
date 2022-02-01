@@ -2,7 +2,8 @@
   <h1>Hey, I'm Tathagata!</h1>
 </p>
 
-I am a **CSE Undergraduate at [@IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/) in India.** Mathematics and Computers fascinate me. I love developing apps and websites!
+I am a **CSE Undergraduate at [@IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/) in India.** Mathematics and Computers fascinate me.<br/>
+I am interested in Cloud and Cloud Native Software</b>
 In my leisure time, I love listening to music and playing games. As a hobby, I am trying to learn Japanese.
 <br></br>
 <a href="https://twitter.com/4molybdenum2">
