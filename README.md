@@ -1,7 +1,8 @@
 <p align="center">
   <h1>Hey, I'm Tathagata!</h1>
 </p>
-I am an Incoming CS Grad [@Stony Brook University, New York](https://www.stonybrook.edu/) . Recently, I graduated from [@IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/), India with a Bachelor in Technology degree. I am interested in Cloud, Cloud Native Software, and Distributed Systems <br/><br/>
+
+I am an Incoming CS Grad [@Stony Brook University, New York](https://www.stonybrook.edu/). Recently, I graduated from [@IIIT Gwalior](https://www.iiitm.ac.in/index.php/en), India with a Bachelor in Technology degree. I am interested in Cloud, Cloud Native Software, and Distributed Systems <br/><br/>
 <a href="https://twitter.com/4molybdenum2">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
