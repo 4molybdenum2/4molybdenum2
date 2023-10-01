@@ -2,7 +2,14 @@
   <h1>Hey, I'm Tathagata!</h1>
 </p>
 
-I am an Incoming CS Grad [@Stony Brook University, New York](https://www.stonybrook.edu/). Recently, I graduated from [@IIIT Gwalior, India](https://www.iiitm.ac.in/index.php/en) with a Bachelor in Technology degree. I am interested in Cloud, Cloud Native Software, and Distributed Systems <br/><br/>
+I am a CS Grad [@Stony Brook University, New York](https://www.stonybrook.edu/). Recently, I graduated from [@IIIT Gwalior, India](https://www.iiitm.ac.in/index.php/en) with a Bachelor in Technology degree. I am interested in Cloud, Cloud Native Software, and Distributed Systems. 
+
+
+- 🔭 I’m currently working in PACE Lab at Stony Brook University.
+- 🌱 I’m currently focusing on courses such as Distributed Systems and Hyrbid Systems during my Masters.
+- 💻 I code primarily in Go, C/C++ and Python.
+- 💬 Always on the lookout for new projects to work on and new people to collaborate with. Simply mail me at: <tathagatapaul7@gmail.com>;
+<br/>
 <a href="https://twitter.com/4molybdenum2">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -12,7 +19,8 @@ I am an Incoming CS Grad [@Stony Brook University, New York](https://www.stonybr
 <a href="https://leetcode.com/4molybdenum2/">
   <img ali
   gn="left" alt="Tathagata's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+</a> 
+<br/><br/>
 
 **Now Playing** on Spotify
 
