@@ -4,7 +4,7 @@
 
 I am a CS Grad [@Stony Brook University, New York](https://www.stonybrook.edu/). Recently, I graduated from [@IIIT Gwalior, India](https://www.iiitm.ac.in/index.php/en) with a Bachelor in Technology degree. I am interested in Cloud, Cloud Native Software, and Distributed Systems. 
 
-
+- 🚗 I will be interning at Tesla in Summer 2024.
 - 🔭 I’m currently working in PACE Lab at Stony Brook University.
 - 🌱 I’m currently focusing on courses such as Distributed Systems and Hyrbid Systems during my Masters.
 - 💻 I code primarily in Go, C/C++ and Python.
