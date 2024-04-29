@@ -7,7 +7,7 @@ I am a CS Grad [@Stony Brook University, New York](https://www.stonybrook.edu/).
 - 🚗 I will be interning at Tesla in Summer 2024.
 - 🔭 I’m currently working in PACE Lab at Stony Brook University.
 - 🌱 I’m currently focusing on courses such as Distributed Systems, Operating Systems, Hyrbid Systems and Visualization during my Masters.
-- 💻 I code primarily in Go, C/C++ and Python.
+- 💻 I code primarily in Go, C/C++ and Python. Currently I am learning Rust 🦀.
 - 💬 Always on the lookout for new projects to work on and new people to collaborate with. Simply mail me at: <tathagatapaul7@gmail.com>;
 <br/>
 <a href="https://twitter.com/4molybdenum2">
