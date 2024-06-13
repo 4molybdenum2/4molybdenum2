@@ -2,9 +2,9 @@
   <h1>Hey, I'm Tathagata!</h1>
 </p>
 
-I am a CS Grad [@Stony Brook University, New York](https://www.stonybrook.edu/). Recently, I graduated from [@IIIT Gwalior, India](https://www.iiitm.ac.in/index.php/en) with a Bachelor in Technology degree. I am interested in Systems Engineering. 
+I am a CS Grad [@Stony Brook University, New York](https://www.stonybrook.edu/). I graduated from [@IIIT Gwalior, India](https://www.iiitm.ac.in/index.php/en) with a Bachelor in Technology degree. I am interested in Systems Engineering and Cloud Infra. 
 
-- 🚗 I will be interning at Tesla in Summer 2024.
+- 🚗 I am interning at Tesla as a Cloud Infrastructure Engineer in Summer 2024.
 - 🔭 I’m currently working in PACE Lab at Stony Brook University.
 - 🌱 I’m currently focusing on courses such as Distributed Systems, Operating Systems, Hyrbid Systems and Visualization during my Masters.
 - 💻 I code primarily in Go, C/C++ and Python. Currently I am learning Rust 🦀.
