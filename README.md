@@ -35,6 +35,7 @@ I am a CS Grad [@Stony Brook University, New York](https://www.stonybrook.edu/).
   gn="left" alt="Tathagata's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a> 
 <br/><br/>
+
 **Now Playing** on Spotify
 
 <a href="https://now-playing-spotify-beta.vercel.app/now-playing?open">
