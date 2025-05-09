@@ -16,6 +16,7 @@ I am a CS Grad [@Stony Brook University, New York](https://www.stonybrook.edu/).
 <p>
   <div style="width:100%;overflow-y:scroll; height:230px;">
     <ul id="news">
+      <li><i>[May 2025]</i> I am going to join <b>Tesla</b> as a Software Engineer in the Tesla Cloud Platform team!</li>
       <li><i>[Oct 2024]</i> Our paper <a href="https://dl.acm.org/doi/abs/10.1145/3698038.3698555">"KACE: Kernel-Aware Colocation for Efficient GPU Spatial Sharing"</a> was submitted to <b>SoCC'24</b> </li>
       <li><i>[May 2024]</i> Joined <b>Tesla</b> as a Software Engineer Intern in Palo Alto, California!</li>
     </ul>
