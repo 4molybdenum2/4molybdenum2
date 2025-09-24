@@ -5,7 +5,7 @@
 I am a CS Grad [@Stony Brook University, New York](https://www.stonybrook.edu/). I graduated from [@IIIT Gwalior, India](https://www.iiitm.ac.in/index.php/en) with a Bachelor in Technology degree. I am interested in Systems Engineering and Cloud Infra. 
 
 - 🚗 I am working at Tesla as a Software Engineer
-- 🔭 I’m worked in the PACE Lab at Stony Brook University on optimizing GPU utilization when colocating workloads on GPUs.
+- 🔭 I worked in the PACE Lab at Stony Brook University on optimizing GPU utilization when colocating workloads on GPUs.
 - 🌱 I’m interested in anything related to Systems.
 - 💻 I code primarily in Go, C/C++ and Python. Currently, I am learning Rust 🦀.
 - 💬 Always looking for new projects to work on and new people to collaborate with. Tweet @4molybdenum2;
