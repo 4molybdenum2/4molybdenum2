@@ -37,9 +37,3 @@ I graduated from [@Stony Brook University, New York](https://www.stonybrook.edu/
   gn="left" alt="Tathagata's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a> 
 <br/><br/>
-
-**Now Playing** on Spotify
-
-<a href="https://now-playing-spotify-beta.vercel.app/now-playing?open">
-    <img src="https://now-playing-spotify-beta.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
